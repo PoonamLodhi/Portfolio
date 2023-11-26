@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    height: 30px;
+    width: 100%;
+    display: inline;
+    /* padding-block: 30px; */
+    margin-left: 100px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav span a {
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+
+}
+
+.container {
+    background-color: rgb(119, 116, 116);
+    height: 500px;
+    margin-top: 30px;
+}
+
+.row {
+    display: inline;
+    color: white;
+}
+
+.row span {
+    background-color: rgb(253, 253, 253);
+    padding: 170px 40px;
+    margin-left: 80px;
+}
+
+.row svg {
+    margin-top: 70px;
+ 
+}
+
+.text pre{
+    color: black;
+    font-weight: bolder;
+    font-size: 23px;
+}
+.checked {
+    color: orange;
+  }
+  .rating{
+    display: inline;
+    font-size: 30px;
+  }
+  .rating span{
+    margin-top: 40px;
+  }
